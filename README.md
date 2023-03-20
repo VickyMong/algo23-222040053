@@ -1,6 +1,7 @@
 # algo_assignment_1
 ## Reference papers
 20220130-信达证券-信达证券衍生品研究系列之三：股指期货基差收敛研究与对冲优化策略
+
 数据见‘数据及结果.zip’中的ICdata.csv
 ## contributions and thoughts
 本篇研报实际上就是在研究基差收敛的因子，我将研报中提及的影响股指期货收敛速度的三个因素：
